@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">点一下翻译</string>
+    <string name="accessibility_description">只读取 YouTube 当前屏幕可见文字，用于把英文评论翻译成中文。</string>
+</resources>
